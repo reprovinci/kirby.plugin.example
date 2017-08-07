@@ -1,5 +1,5 @@
 # kirby.plugin.example
-A readme would be nice :)
+A readme would be nice :).
 
 Answer typical question like 
 * What does the plugin do?
