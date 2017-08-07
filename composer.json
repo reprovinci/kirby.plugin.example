@@ -1,7 +1,7 @@
 {
   "name": "reprovinci/kirby.plugin.example",
   "type": "kirby-plugin",
-  "description": "Example plugin for Kirby websites.",
+  "description": "An example Kirby plugin just to demonstrate how to install a Kirby plugin using composer and composer/installers.",
   "require": {
     "composer/installers": "^1.3"
   },
