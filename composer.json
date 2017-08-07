@@ -1,0 +1,19 @@
+{
+  "name": "reprovinci/kirby.plugin.example",
+  "type": "kirby-plugin",
+  "description": "Example plugin for Kirby websites.",
+  "require": {
+    "composer/installers": "^1.3"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "My Name",
+      "email": "me@mymail.com"
+    }
+  ],
+  "prefer-stable": true,
+  "extra": {
+    "installer-name": "example"
+  }
+}
